@@ -17,7 +17,7 @@ class _HomeScreeenState extends State<HomeScreeen> {
   }
   @override
   void initState() {
-    // TODO: implement initState
+    
     super.initState();
     getemail();
    
@@ -29,7 +29,7 @@ class _HomeScreeenState extends State<HomeScreeen> {
         backgroundColor: Colors.blueAccent,
         automaticallyImplyLeading: false,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back_ios_new),
+          icon: const Icon(Icons.arrow_back_ios_new),
           onPressed: () {
             Navigator.of(context).pop();
           },
@@ -38,6 +38,7 @@ class _HomeScreeenState extends State<HomeScreeen> {
       body: Center(
         child: Text(
           "Welcom $email",
+          // ignore: prefer_const_constructors
           style: TextStyle(color: Colors.black, fontSize: 18),
         ),
       ),

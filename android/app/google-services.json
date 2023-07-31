@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447433637466",
+    "project_id": "signinapp-d30aa",
+    "storage_bucket": "signinapp-d30aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447433637466:android:9b8d2c02974c3529ba6263",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447433637466-gsn09374nv5rvdat6u44etqhjplefdsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55Eis2f6cMpnY0KHvEovKWKXJcc79rzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447433637466-gsn09374nv5rvdat6u44etqhjplefdsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
