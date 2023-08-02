@@ -32,6 +32,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///C:/Users/aliel/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.8.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///C:/Users/aliel/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-5.15.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///C:/Users/aliel/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///C:/Users/aliel/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
       "packageUri": "lib/",
@@ -308,7 +326,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-31T17:47:48.443596Z",
+  "generated": "2023-08-02T00:15:35.082143Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
